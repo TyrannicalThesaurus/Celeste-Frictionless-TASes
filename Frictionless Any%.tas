@@ -1,0 +1,144 @@
+console titlescreen
+Set,DisableScreenShake,true
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+Set,Everest.ShowModOptionsInGame,false
+EnforceMaingame
+Unsafe
+Set,ExtendedVariantMode.AirFriction,-1
+Set,ExtendedVariantMode.GroundFriction,-1
+   2
+   1,J
+  94
+   1,J
+  61
+   1,J
+  14
+   1,D
+   1,J
+  41
+   1,D
+   1,F,180
+   1,R
+   1,J
+   1,U
+   1,F,
+   1,L
+   1,J
+   1,D
+   1,F,180
+   1,J
+   1,S
+  48
+   1,U
+   1,J
+Add 131
+
+#Prologue
+   1,S
+   1,D,J
+  32
+Read,Prologue Frictionless,Start
+
+ 438
+   1,J
+  43
+   1,J
+ 230
+   1,J
+ 136
+Add 1
+
+Read,Chapter 1 Frictionless,Start
+
+Add 197
+ 165
+   1,J
+Add 7
+ 230
+   1,J
+  43
+   1,J
+ 230
+   1,J
+ 136
+Add 1
+
+Read,Chapter 2 Frictionless,Start
+
+Add 197
+ 165
+   1,J
+Add 7
+ 230
+   1,J
+  43
+   1,J
+ 230
+   1,J
+ 136
+Add 1
+
+Read,Chapter 3 Frictionless,Start
+
+Add 197
+ 165
+   1,J
+  83
+Add 7
+   1,S
+ 194
+   1,J
+  43
+   1,J
+ 230
+   1,J
+ 136
+Add 1
+
+Read,Chapter 4 Frictionless,Start
+
+Add 197
+ 165
+   1,J
+Add 7
+ 230
+   1,J
+  43
+   1,J
+ 230
+   1,J
+ 136
+Add 1
+
+Read,Chapter 5 Frictionless,Start
+
+Add 197
+ 165
+   1,J
+Add 7
+ 230
+   1,J
+  43
+   1,J
+ 230
+   1,J
+ 136
+Add 1
+
+Read,Chapter 6 Frictionless,Start
+Add 197
+ 165
+   1,J
+Add 7
+ 230
+   1,J
+  43
+   1,J
+ 230
+   1,J
+  32
+Add 1
+Read,Chapter 7 Frictionless,Start
+
+ 
