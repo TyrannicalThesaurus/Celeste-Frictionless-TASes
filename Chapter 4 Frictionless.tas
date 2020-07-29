@@ -1,5 +1,6 @@
 console load 4
    1
+
 #Start
 
 #lvl_a-00
@@ -408,7 +409,6 @@ console load 4
   40
 #lvl_c-06
 
-***
    7
 
    4,K
@@ -687,7 +687,6 @@ console load 4
   40
 
 #lvl_d-09
-***
 
    2
    1,R,J
