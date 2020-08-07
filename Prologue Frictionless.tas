@@ -1,3 +1,4 @@
+
 console load 0
    1
 #Start
@@ -25,73 +26,66 @@ console load 0
   40
 
 #lvl_1
-  20,R,J
-   3,K,G
-   1,R,J,G
-  10
-  12,R,J
-  22,D
-  39,R,J
-  12,K,G
-   1,J,G
-   1,R,K,G
-   9
-   1,R,J
-   1
-   1,J
-   1
-   1,J
-   1
-   1,J
-   9
+  20,R,J,G
+  12,R,U,G
+   1,L,J,G
+  12
    2,J
-  10
-  31,J
+  16
+  37,R,J
+  10,R,K,G
+  14,R,U,G
+   1,R,J,G
+   7
+   4,L,J
+   4
+   2,J
+  41
+   1,R,J,G
+   9
+  12,R,J,G
+  12,R,K,G
+   3,R,J,G
+   2
    1,R,K,G
   10
-   7,R,J
-   3,R,K,G
-  12,J,G
-   7,K,G
    1,R,J,G
-  10
-   1,R,J
   14
   40
 
 #lvl_2
-   1,R,J
-  16
+   1,R,J,G
+  14
    1,L,J
    9,R,J
-   5,R
-  12,K,G
+   7
+  13,K,G
    1,R,J,G
-   1,R,K,G
-  13,L
-   1,R,J
+   2,R,K,G
   14,L
-   1,R,J
-  14
-   1,R,J
-  21
+   1,R,J,G
+  14,L
+   1,R,J,G
+  14,L
+   1,R,J,G
+  19,D
   40
 
 #lvl_3
-   1,R,J
+   2
+   1,R,J,G
   14
-   1,R,J
+   1,R,J,G
   14
-   1,R,J
+   1,R,J,G
   14
-   1,R,J
+   1,R,J,G
+  15
+   1,R,J,G
+  15
+   1,R,J,G
   14
-   2,R,J
-  16
-   1,R,J
-  14
-   6,R,J
-   9
-   4,J
+   7,R,J,G
+  12
    1,S
    1,D,J
