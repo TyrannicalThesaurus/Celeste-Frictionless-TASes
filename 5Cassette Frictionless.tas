@@ -1,0 +1,387 @@
+console load 5
+   1
+#Start
+
+#lvl_a-00b
+ 111
+   1,S
+   1,D,J
+  34
+
+   4,D,X
+   1,R,X
+   1,R,J
+  14
+  15,R,J
+  40
+
+
+#lvl_a-00d
+   7,R,J
+  15,R,D,X
+  12,R,J
+   4,R,K,G
+  15,R,D,X
+   1,D
+   1,L,J
+  12,R,U,C
+   1,R,K,G
+  17,R,D
+   4,D,X
+   1,R,J
+   7
+  40
+
+#lvl_a-00c
+   8
+   7,R,J
+   9,R,K,G
+  11,R,D,X
+   7,R,J,G
+  11,R,K,G
+   6
+   6,R,J,G
+  21
+   6,R,J,G
+  40
+
+
+#lvl_a-00
+
+   1,R,J,G
+   7,R,U,X
+   1,L
+  52,J,G
+   2,R,K,G
+   1,R,J,G
+  12,R,C
+  10,R,J
+  12,R,D,X
+   1,L,J
+   2
+   6,L,D,X
+   1,R,J
+   7
+   1,R,J
+   2,R,K,G
+   4,R
+
+  40
+
+#lvl_a-01
+
+  35,R,D
+   4,R
+   9,U,X
+  20,R,J
+  14,U,C
+  82
+  40
+
+
+#lvl_a-08
+  40
+   4,D,X
+   6,R,X
+  14,R,J
+   8,R,D,X
+   8,R,J,G
+   1
+  12,R,J
+   6
+   4,D
+  40
+
+#lvl_a-12
+
+   5
+   4,D,X
+   6,R,U,X
+  12,R,K,G
+   1
+   6,J
+  10,D
+  13
+   1,J
+  32,D
+   1,J
+   #8 air frames to goof off in
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+  14,L,X
+  42
+   4,D,X
+   3,L,U,X
+   1,R
+   2,J,G
+   7
+   4,D,X
+   1,L,J
+   1
+  40
+
+#lvl_a-08 (part 2, electric boogaloo)
+  29,D
+  13,R,D,X
+#Like 17 frames to wait before the door opens, but a few frames setting up the gultra
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   4,D,C
+   1,L,C
+   1,L,J
+   7
+   5,L,J
+  11,L,K,G
+  15,L,D,X
+   1,L,J
+   2
+  11,L,D,X
+   4,D
+
+  40
+#lvl_a-01 (again)
+
+  56,D
+  12,L,D,X
+   1,R,J,G
+   2
+  15,R,D,X
+  36,D
+   4,D,X
+   1,R,J
+   3
+  61
+#lvl_a-13
+
+   6,R
+   1,R,J
+  14,R,D,X
+  82
+   4,D,X
+  10,L,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+   7
+   4,R,J
+   4
+   7,R,D,X
+   1,R,J,G
+  23,D
+   4,D,X
+   4,R,U,X
+  40
+
+#lvl_b-00
+
+   6,R,U,X
+  10,J
+   4,D,X
+  10,R,U,X
+   3,J
+   1,S
+   1,D,J
+  34
+   2,J
+  13,R,D,X
+   1,R,J
+   1
+  14,R,D,X
+  15,D
+   7,R,J
+   4,R,K,G
+   9,U,X
+   2,R,J
+  14,D
+   4,D,X
+   6,R,X
+   1,R,J
+   3
+  10,R,D,X
+  14,D
+  40
+
+#lvl_b-01
+
+   1
+   9,R,J
+  17,U,X
+  15,J
+  11
+   4,L,X
+  15,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   5,L,K,G
+  12,L,J,G
+   5,L,K,G
+  12,L
+   4,D,X
+   6,L,X
+   9,R,J,G
+  10
+  11,R,J
+   3,R
+  11,R,U,X
+   1,J,G
+   9
+   5,R,J
+   5,R,D,X
+  40
+
+#lvl_b-01b
+
+  23,D
+   1,R
+   4,D,X
+  10,R,U,X
+   1,R,J,G
+   3
+   1,R,K,G
+  13
+   1,R,J
+  11,L,X
+  15,R,J
+   3,R,K,G
+  10
+  40
+
+#lvl_b-02
+   1
+  10,R,J
+   5
+  15,R,D,X
+   5,D
+  15,L,D,X
+  12,D
+  11
+  15,R,X
+  51
+  40
+
+#lvl_b-11
+   5
+  10,R,D,X
+   1,R,J
+   7
+   9,R,U,X
+   1,J,G
+   7
+   7,L
+   4,D,X
+  10,L,X
+   1,R,J
+   8
+  12,R,J
+   1,L,J
+   6,L,K,G
+  10,R,J,G
+  15,R,U,X
+  31,D
+  15,L,X
+   8,D
+  15,R,D,C
+  56,D
+   4,D,X
+   1,R,J
+   4
+  40
+
+#lvl_b-13
+   3
+   5,R,J
+  15,L,U,X
+  10
+   4,D,X
+   6,L,X
+   8,R,J
+   6
+   6,R,J
+  12
+  15,U,X
+   5
+   1,R,J,G
+  10
+   1,R,J
+  14
+  10,L,X
+  16,L,J
+  15,U,X
+  64,D
+   1
+   4,D,X
+   1,R,J
+   7
+   2,R,J
+   6,R,K,G
+  13,R,U,X
+   1,R,J,G
+  10
+  40
+
+#lvl_b-17
+  18
+   4
+  11,R,J
+  15,R,D,X
+   5
+   4,R,J
+   5,R,K,G
+  14
+   4,R,D,J
+  40
+
+#lvl_b-22
+   3,R,J
+   1
+   4,R,K,G
+  15,D,C
+  15,D,X
+  15,D,C
+   6
+   8,R,C
+  15,R,X
+  40,R,G
+   5,R,J,G
+  34,R,G
+  15,R,X
+  11,D
+   2,R,J,G
+  10
+  15,D,X
+  15,D,C
+   5,L,J
+  14,R,D,X
+  32,R,J
+  16,U,X
+   8,L,J
+   4
+   1,L,K,G
+  12
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+   4,D,C
+   4,R,C
+   1,L,J
+  21
+   9,L,U,X
+   1,R
+   1,J,G
+  20
+   7,L,J
+  15,L,U,X
+ 252
+   1,J
